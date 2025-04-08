@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `April 07, 2025`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `April 07, 2025`  | `Garry Kulle`   
